@@ -9,7 +9,6 @@ Currently, I'm focused on studying C++ systems development, programming language
 Not yet available.
 
 # 💻 Tech Stack:
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=7D929E)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
@@ -24,8 +23,9 @@ Not yet available.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+![assembly](https://img.shields.io/badge/assembly-%232C2D72.svg?style=flat-square&logo=assembly&logoColor=white)
+![kernel](https://img.shields.io/badge/kernel-%232C2D72.svg?style=flat-square&logo=linux&logoColor=white)
+
 
 # 💭 Future Ambitions:
 I want to focus on system development, low-level programming, and related areas such as kernel software.  
